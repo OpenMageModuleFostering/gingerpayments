@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/gingerpayments",
+    "name": "OpenMageModuleFostering\/gingerpayments",
     "type": "magento-module",
     "license": "GNU-General-Public-License-v3",
     "homepage": "",
     "description": "Official Ginger Payments Magento extension",
     "authors": [
-    {
-        "name": "Ginger Payments B.V.",
-        "email": "info@gingerpayments.com"
-    }
-],
+        {
+            "name": "Ginger Payments B.V.",
+            "email": "info@gingerpayments.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
